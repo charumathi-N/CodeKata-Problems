@@ -9,7 +9,7 @@
 // Solution:
 
   n= [6,2];
-  m= [1,2,3,2,2,8];
+  m= [1,2,3,5,,8];
   let count=0;
   let k= n[1];
   const result = m.filter(number => number === k);
