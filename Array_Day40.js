@@ -14,8 +14,8 @@
 // Sample Output :
 // 1 2 0
 
-const n = userInput[0];
-const m = userInput[1].split(" ").map(Number);
+const n = 3
+const m = [1,5,4];
 let resArray;
 if(m[ m.length-1]==0)
 {
