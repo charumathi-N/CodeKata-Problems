@@ -15,4 +15,4 @@ let i = userInput[0];
 let j = userInput[1].split(" ").map(Number);
 let sita = j.filter((value,i)=>value===1);
 let ram = j.filter((value,i)=>value===0);
- console.log("RAM: "+ram.length+"\n"+"SITA: "+sita.length);
+console.log("RAM: "+ram.length+"\n"+"SITA: "+sita.length);
