@@ -15,5 +15,12 @@
 # Day44 output
 ![image](https://github.com/charumathi-N/CodeKata-Problems/assets/62592988/fa4e412f-f61d-4c70-938a-d528e4c04305)
 
+# Day45 output
+![image](https://github.com/charumathi-N/CodeKata-Problems/assets/62592988/54886b74-6b74-499a-ba2b-5c539b8b4dc3)
+
+# Day46 output
+![image](https://github.com/charumathi-N/CodeKata-Problems/assets/62592988/75a379cc-81aa-4146-98b2-f77ca32ba283)
+
+
 
 
