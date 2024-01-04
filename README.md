@@ -30,7 +30,8 @@
 # Day49 output
 ![image](https://github.com/charumathi-N/CodeKata-Problems/assets/62592988/99caf4b7-41d7-4233-b14a-24f1c9b2eeaf)
 
-
+# Day50 output
+![image](https://github.com/charumathi-N/CodeKata-Problems/assets/62592988/05279b69-e29d-4d69-a5cb-c2247f88a988)
 
 
 
